@@ -1,0 +1,71 @@
+
+Dallas - Ship Captain and Commander
+
+Kane - Executive Officer
+
+E. Ripley - Warrant Officer
+
+S.E. Brett - Ship Engineer, 1st Class
+
+Parker - Ship Engineer, Lead
+
+J.M. Lambert - Navigation Officer
+
+Ash - Science Officer
+
+Jonesy - Ship Cat
+
+------
+
+""" 
+WHAT'S THE STORY MOTHER ?
+
+"""
+
+"""
+
+REQUEST CLARIFICATION ON 
+
+SCIENCE INABILITY TO NEUTRALIZE ALIEN
+
+UNABLE TO CLARIFY
+
+REQUEST ENHANCEMENT
+
+NO FURTHER ENHANCEMENT
+
+SPECIAL ORDER 937
+
+SCIENCE OFFICER EYES ONLY
+
+EMERGENCY COMMAND OVERIDE 100375
+
+WHAT IS SPECIAL ORDER #937?
+
+NOSTROMO REROUTED
+
+TO NEW CO-ORDINATES  (LV-426)
+
+INVESTIGATE LIFE FORM.  GATHER SPECIMEN.
+
+PRIORITY ONE.
+
+INSURE RETURN OF ORGANISM
+
+FOR ANALYSIS.
+
+ALL OTHER CONSIDERATIONS SECONDARY.
+
+CREW EXPENDABLE.
+
+
+"""
+
+Welcome new employee!
+
+At Weyland-Yutani, we are building better worlds for a better future!  Our innovations and technological achievements will better all lives and benefit mankind.
+
+Rest assured however, as an employee of Weyland-Yutani, crew safety is PRIORITY ONE and our [top] number one CONSIDERATION! In event of FTL re-routing, under certain exceptional circumstances, essential crew will be eligible for salary bonuses. What a great opportunity to explore the galaxy while enhancing pay.
+
+Tomorrow.  Together.
+
